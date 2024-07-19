@@ -2,6 +2,8 @@
 ![](https://github.com/user-attachments/assets/50f95269-28f2-41b4-9b42-f6d83d79276f)
 # Idea And Methodlogy
 ![](https://github.com/user-attachments/assets/14b6d8e3-0e03-4e34-9e89-14fcb1909ec3)
+# Key concepts
+![](https://github.com/user-attachments/assets/512f9093-3c89-4276-9f3e-4350da648a7e)
 
 
 ## Features
