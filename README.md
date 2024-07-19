@@ -1,10 +1,7 @@
 # Professional Networking App
-
-Develop a professional networking app (just like LinkedIn) using C++ and object-oriented programming.
-
-This project is a console-based application replicating the core functionalities of LinkedIn, a popular social networking platform for professionals. Users can create profiles, connect with each other, search for jobs, and exchange messages.
-
 ![](https://github.com/user-attachments/assets/50f95269-28f2-41b4-9b42-f6d83d79276f)
+# Idea And Methodlogy
+![](https://github.com/user-attachments/assets/14b6d8e3-0e03-4e34-9e89-14fcb1909ec3)
 
 
 ## Features
