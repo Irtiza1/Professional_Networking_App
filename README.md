@@ -9,17 +9,21 @@
 
 
 ## Features
+- Admin profile
+-   i- admin can update the app
+-  ii- can add features
+- iii- keep an eye on the activities performed by companies and users
 - User Profiles
-- Connections Management
-- Job Search Functionality
-- Messaging System
+-   i- can make connection
+-  ii- can chat with connections
+- iii- can post
+-  iv- can search apply for job
+-   v- can see top 5 pos top connection
 - Company Profiles (for posting jobs and hiring)
+-   i- can hire employee
+-  ii- can make hiring post
+- iii- employee can follow company page
 
 ## Technologies Used
 - C++
-
-## Getting Started
-
-Clone the repository using the following command:
-```bash
-git clone https://github.com/<your-username>/<repository-name>.git
+- Objected Oriented Programming
