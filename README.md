@@ -4,6 +4,8 @@
 ![](https://github.com/user-attachments/assets/14b6d8e3-0e03-4e34-9e89-14fcb1909ec3)
 # Key concepts
 ![](https://github.com/user-attachments/assets/512f9093-3c89-4276-9f3e-4350da648a7e)
+# Key Features
+![features](https://github.com/user-attachments/assets/67737cbc-7679-4303-a7e1-9dd811b68f79)
 
 
 ## Features
